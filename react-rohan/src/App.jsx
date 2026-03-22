@@ -5,8 +5,7 @@ import Test from "./components/test.jsx";
 function App() {
   return (
     <div>
-      <h1>Hello Rohan 👋</h1>
-      <p>Welcome to your first React project!</p>
+     <h3 className="demo">Rohan</h3>
       <Test />
     </div>
   );
